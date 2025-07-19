@@ -1,3 +1,4 @@
+![logo](https://github.com/arnabkoley07/arnabkoley07/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">A passionate AI & Web Developer</h3>
 
